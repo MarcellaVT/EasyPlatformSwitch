@@ -5,7 +5,7 @@ EasyPlatformSwitch is a Unity editor tool developed for VRChat world creators, i
 This is a fork of a fork of EasyQuestSwitch. We forked [this version by bdragon28](https://github.com/bdragon28/EasyQuestSwitch) instead of the original as it adds iOS support.
 
 ## Installing
-Go to https://MarcellaVT.github.io/VCCListing/ and click "Add to VCC" Then click Manage Project on your project in VCC and press the plus button next to EasyPlatformSwitch.
+Go to (broken at the moment. Will be fixed) and click "Add to VCC" Then click Manage Project on your project in VCC and press the plus button next to EasyPlatformSwitch.
 
 Adding EasyPlatformSwitch will automatically remove EasyQuestSwitch and hide it from packages list to prevent conflicts. Remove EasyPlatformSwitch if you want to go back to EasyQuestSwitch.
 
@@ -20,7 +20,6 @@ No tutorial at the moment but you can check `EasyPlatformSwitch/EQS_Types/` and 
 
 <img width="3132" height="1440" alt="EasyPlatformSwitch Image" src="https://github.com/user-attachments/assets/c63872a2-d1bc-41f7-8209-56872ddf64a1" />
 
-## Support
+## Issues or Suggestions?
 
-Don't hesitate to join our Discord server at <!-- [discord.gg/kmart](https://discord.gg/kmart) -->.
-<!-- MARC DON'T FORGET TO CHANGE THIS URL -->
+Don't hesitate create an issue on the issues page!
